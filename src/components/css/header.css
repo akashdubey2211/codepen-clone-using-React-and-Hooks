@@ -1,0 +1,48 @@
+.header{
+    position: relative;
+    justify-content: space-between;
+    align-items: center;
+    width: 100vw;
+    background-color: black;
+    overflow-x: visible;
+}
+.logo{
+    margin: 0 0 0 0;
+    width: 150px;
+    height: 100px;
+    margin-left: 6%;
+    margin-bottom: 0;
+}
+footer {
+    margin-top: 4%;
+    width: 100%;
+    -webkit-box-shadow: 0px -4px 3px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow: 0px -4px 3px rgba(50, 50, 50, 0.75);
+    box-shadow: 0px -4px 3px rgba(50, 50, 50, 0.75);
+    padding: 10px 0;
+    background-color: #000000;
+    text-align: center;
+    align-items: center;
+    border-top: 2px solid rgba( #09015f, 0.3);
+  }
+  
+  footer a{
+    max-width: 60px;
+    margin-top: 50px;
+    margin-top: 4%;
+  }
+  
+  footer a:not(:last-child) {
+    margin-right: 10px;
+  }
+  a{
+      color: #ffff;
+    margin-top: 10px;
+    font-weight: 600;
+  }
+  .p{
+    margin-top: 20px;
+    color: #ffff;
+
+
+  }
